@@ -1,0 +1,322 @@
+Tile Catalog
+v.2
+32
+16
+End Of Header
+Item Configuration
+v.1
+2
+Name
+Tags
+1
+Value
+0
+22
+Tile Description
+v.3
+1
+24 44
+End Of Header
+Item
+v.1
+data
+2
+Some coins
+treasure
+1
+3
+0
+Tile Description
+v.3
+2
+24 43
+End Of Header
+Item
+v.1
+data
+2
+Coins
+treasure
+1
+5
+0
+Tile Description
+v.3
+3
+19 40
+End Of Header
+Item
+v.1
+data
+2
+Coin pile
+treasure
+1
+7
+0
+Tile Description
+v.3
+4
+23 45
+End Of Header
+Item
+v.1
+data
+2
+Scroll 1
+magic
+1
+10
+0
+Tile Description
+v.3
+5
+24 44
+End Of Header
+Item
+v.1
+data
+2
+Scroll 2
+magic
+1
+10
+0
+Tile Description
+v.3
+6
+23 42
+End Of Header
+Item
+v.1
+data
+2
+Book
+magic
+1
+50
+0
+Tile Description
+v.3
+7
+24 36
+End Of Header
+Item
+v.1
+data
+2
+Pot
+cooking
+1
+2
+0
+Tile Description
+v.3
+8
+29 45
+End Of Header
+Item
+v.1
+data
+2
+Key
+
+1
+1
+0
+Tile Description
+v.3
+9
+28 37
+End Of Header
+Item
+v.1
+data
+2
+PI Rune
+testing
+1
+80
+0
+Tile Description
+v.3
+10
+0 0
+End Of Header
+Item
+v.1
+data
+2
+Tiled floor
+ground
+1
+0
+0
+Tile Description
+v.3
+11
+0 0
+End Of Header
+Item
+v.1
+data
+2
+Grass
+ground
+1
+0
+0
+Tile Description
+v.3
+12
+0 0
+End Of Header
+Item
+v.1
+data
+2
+Left mini wall
+construction
+1
+0
+0
+Tile Description
+v.3
+13
+0 0
+End Of Header
+Item
+v.1
+data
+2
+Right mini wall
+construction
+1
+0
+0
+Tile Description
+v.3
+14
+24 41
+End Of Header
+Item
+v.1
+data
+2
+Dagger
+weapon
+1
+5
+0
+Tile Description
+v.3
+15
+19 40
+End Of Header
+Item
+v.1
+data
+2
+Sword
+weapon
+1
+15
+0
+Tile Description
+v.3
+16
+14 39
+End Of Header
+Item
+v.1
+data
+2
+Trousers
+clothing
+1
+3
+0
+Tile Description
+v.3
+17
+17 40
+End Of Header
+Item
+v.1
+data
+2
+Vest
+clothing
+1
+3
+0
+Tile Description
+v.3
+20
+23 42
+End Of Header
+Item
+v.1
+data
+2
+Tower shield
+armor
+1
+12
+0
+Tile Description
+v.3
+18
+29 44
+End Of Header
+Item
+v.1
+data
+2
+Ring
+magic
+1
+100
+0
+Tile Description
+v.3
+19
+27 46
+End Of Header
+Item
+v.1
+data
+2
+Amulet
+magic
+1
+100
+0
+Tile Description
+v.3
+21
+0 0
+End Of Header
+Item
+v.1
+data
+2
+Empty tile
+special
+1
+18
+0
+Tile Description
+v.3
+22
+20 36
+End Of Header
+Item
+v.1
+data
+2
+Chest
+treasure
+1
+1000
+0
