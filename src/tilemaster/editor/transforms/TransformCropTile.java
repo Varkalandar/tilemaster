@@ -50,7 +50,7 @@ public class TransformCropTile implements TileTransform
                 final int argb = canvas.getRGB(x, y);
                 final int a = (argb >>> 24) & 255;
 
-                if(a > 127 && argb != bgColor)
+                if(a > 0 && argb != bgColor)
                 {
                     if(x < minX) minX = x;
                     if(y < minY) minY = y;
@@ -72,7 +72,7 @@ public class TransformCropTile implements TileTransform
                 final int argb = canvas.getRGB(x+minX, y+minY);
                 final int a = (argb >>> 24) & 255;
 
-                if(a > 127 && argb != bgColor)
+                if(a > 0 && argb != bgColor)
                 {
                     img.setRGB(x, y, argb);
                 } else {

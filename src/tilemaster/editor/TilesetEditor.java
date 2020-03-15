@@ -2238,7 +2238,7 @@ public class TilesetEditor
                     final int argb = canvas.getRGB(x, y);
                     final int a = (argb >>> 24) & 255;
 
-                    if(a > 254 && argb != colorZero) 
+                    if(a > 0 && argb != colorZero) 
                     {
                         if(x > maxX) 
                         {
@@ -2263,7 +2263,7 @@ public class TilesetEditor
                     final int argb = canvas.getRGB(x, y);
                     final int a = (argb >>> 24) & 255;
 
-                    if(a > 254 && argb != colorZero) {
+                    if(a > 0 && argb != colorZero) {
                         img.setRGB(x, y, argb);
                     } else {
                         img.setRGB(x, y, 0);
