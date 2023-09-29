@@ -2469,7 +2469,7 @@ public class TilesetEditor
                 int i=0;
                 String path;
                 
-                while((path = props.getProperty("path." + i)) != null)
+                while((path = props.getProperty("path." + i)) != null && i < 24)
                 {
                     if(path.startsWith("One "))
                     {
