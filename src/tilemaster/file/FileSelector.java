@@ -297,9 +297,9 @@ public class FileSelector
                     model.add(1, wrap);
                 }
                 else
-                {
+                {                    
                     // Not yet in list -> add it
-                    model.add(1, wrap);
+                    model.add(0, wrap);
                 }
 
                 return file;
